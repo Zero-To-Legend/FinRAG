@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+body {
+  background-color: darkslategray;
+  margin: 0;
+}
+
+/* Custom bounce animation for the hero image */
+@keyframes lightBounce {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.animate-lightBounce {
+  animation: lightBounce 2s infinite;
+}
