@@ -104,15 +104,7 @@ Frontend will be live at: http://localhost:5173
 | apikey.txt       | Optional raw API key store      |
 | requirements.txt | All Python packages for backend |
 
----
 
-👥 Authors
-
-- Ruban Gino Singh Arul Peppin Raj (1665680)
-- Raja Priya Mariappan (1865511)
-- Raju Bhattarai (1884382)
-
-Project submitted as part of MM802 Multimedia Communications.
 
 ---
 
@@ -123,4 +115,3 @@ Contact contributors for commercial or research collaboration.
 
 ```
 
-```
